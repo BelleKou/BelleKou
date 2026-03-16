@@ -56,6 +56,6 @@ I care about the gap between "model works" and "product ships" — and closing i
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=BelleKou&color=6E40C9&style=flat)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](BelleKou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](http://linkedin.com/in/belle-k-98961a382)
 
 </div>
