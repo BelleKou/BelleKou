@@ -45,9 +45,7 @@ I care about the gap between "model works" and "product ships" — and closing i
 
 <div align="center">
 
-![Belle's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BelleKou&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-&nbsp;
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BelleKou&layout=compact&theme=tokyonight&hide_border=true)
+![snake gif](https://github.com/BelleKou/BelleKou/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
