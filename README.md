@@ -21,7 +21,7 @@ I care about the gap between "model works" and "product ships" — and closing i
 
 | Project | What it does | Impact |
 |---|---|---|
-| [**Kurrent**] | H1B sponsorship intelligence platform | 45min research → under 2min · 50+ user interviews → live MVP |
+| [**Kurrent**](https://kurrent.vercel.app) | H1B sponsorship intelligence platform | 45min research → under 2min · 50+ user interviews → live MVP |
 | [**Geo Context Engine**](https://github.com/BelleKou/geoglobal) | Edge localization tool for APAC markets | 75% latency reduction · 80% faster country-specific pricing |
 | [**Airbnb Funnel Analysis**](https://github.com/BelleKou/Airbnb) | Booking conversion analysis, Rio de Janeiro | Cohort + segmentation · surfaced Jan supply bottleneck |
 | [**A/B Test — Instacart**](https://github.com/BelleKou/AB_TEST) | Shopper hiring funnel optimization | 57% CVR lift via Z-score hypothesis testing |
