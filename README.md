@@ -8,8 +8,7 @@
 
 ### 🧠 About
 
-Product analytics + AI tools, built on a statistics foundation.
-I care about the gap between "model works" and "product ships" — and closing it.
+Building with data, AI, and statistics — from analysis and models to products that ship.
 
 - 🎓 Math @ **UCL** · Applied Statistics @ **Columbia University**
 - 🔨 Currently building: AI-powered product tools + statistical experimentation frameworks
